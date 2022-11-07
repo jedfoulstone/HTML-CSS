@@ -77,3 +77,10 @@ a {
     font-weight: bold;
 
 }
+
+.section-one {
+    border: 1px solid white;
+    background-color: darkslateblue;
+}
+
+
